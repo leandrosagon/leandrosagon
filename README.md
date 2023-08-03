@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leandrosagon
 - 👀 I’m interested in work 
-- 🌱 I’m currently learning Frontend e Bakend
 - 💞️ I’m looking to collaborate on projets
 - 📫 How to reach me
 - e-mail: leandro_sagon@outlook.com
